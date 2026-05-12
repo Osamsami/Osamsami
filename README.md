@@ -23,3 +23,5 @@ Building data-driven solutions and architecting intelligent systems. I specializ
 ###  Connect with me:
 * [LinkedIn](www.linkedin.com/in/osam-sami-874236291) | *Let's build the future of AI together.*
 
+[![Osamsami's Contribution Graph](https://github-contribution-graph.vercel.app/api?username=osamsami&theme=tokyonight)](https://github.com/osamsami)
+
