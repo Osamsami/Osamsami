@@ -7,7 +7,7 @@ I spend most of my time learning and building things around machine learning. My
 
 I believe the best way to learn is by building. Most of my projects are an opportunity to apply theory to real problems while improving my software engineering skills along the way. So far I've worked on a House Price Predictor, where I built and deployed a complete machine learning pipeline, and DietLog, a nutrition tracking app that integrates vision models through the Gemini API.
 
-Lately I've been focused on strengthening my foundations — mathematics, Python, machine learning, backend engineering, and model deployment. My goal isn't just to train models, but to understand the full lifecycle of an AI application: from collecting and preparing data, to training, to deploying something reliable that people can actually use.
+My goal isn't just to train models, but to understand the full lifecycle of an AI application: from collecting and preparing data, to training, to deploying something reliable that people can actually use.
 
 I'm particularly interested in applied AI, deep learning, and computer vision. As I keep learning, I hope to contribute to meaningful projects, work alongside people who know more than I do, and eventually build AI systems that solve real problems.
 
